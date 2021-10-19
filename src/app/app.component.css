@@ -1,0 +1,26 @@
+header{
+   border: 1px solid gray;
+   display: flex;
+   padding: 2px;
+}
+
+h1{
+color: gray;
+font-size: medium;
+position: absolute;
+top: -3px;
+background-color: white;
+left: 16px;
+height: fit-content;
+margin: 0;
+}
+
+.container{
+   display: flex;
+}
+
+.container-for{
+   display: flex;
+   align-items: center;
+   margin-right: 20px;
+}
